@@ -1,0 +1,30 @@
+body {
+background-color: black;
+text-align: center;
+}
+
+h1, h2, p {
+font-family: "Verdana";
+}
+
+h1 {
+font-weight: normal;
+font-size: 50px;
+color: white;
+}
+
+.btn{
+color: Aquamarine;
+font-size: 16px;
+}
+
+h2 {
+font-weight: 300;
+font-size: 42px;
+}
+
+p {
+font-size: 21px;
+color: gray;
+}
+
